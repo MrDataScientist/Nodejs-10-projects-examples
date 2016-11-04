@@ -1,0 +1,166 @@
+body {
+  font-family: arial;
+  font-size:15px;
+  background:#f4f4f4;
+  color:#666;
+}
+.logo{
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.container{
+    width:750px;
+    border:1px solid #ccc;
+    margin:20px auto;
+    padding:20px;
+    border-top:#83cd39 3px solid;
+}
+
+.clr{
+    clear:both;
+}
+
+ul{
+    padding:0;
+    margin:0;
+}
+
+h1, h2, h3, p{
+    padding:5px 0;
+    margin-bottom:0;
+}
+
+p{
+    margin:0;
+}
+
+a{
+    color:#404137;
+    text-decoration: none;
+}
+
+nav{
+    background:#404137;
+    color:#fff;
+    overflow:auto;
+    height: 40px;
+    padding:20px 0 0 10px;
+    font-size:18px;
+    margin-bottom:20px;
+}
+
+nav li{
+    float:left;
+    list-style: none;
+}
+
+nav a {
+    padding:10px;
+    margin:0 10px;
+    color:#fff;
+}
+
+nav a.current, nav a:hover{
+    background:#83cd29;
+    color:#000;
+}
+
+.meta{
+    padding:7px;
+    border:1px solid #ccc;
+    background:#ccc;
+}
+
+a.more{
+    display:block;
+    width:80px;
+    background:#404137;
+    color:#fff;
+    padding:10px;
+    margin-top:30px;
+}
+
+.post{
+    border-bottom:1px solid #ccc;
+    padding-bottom:20px;
+}
+
+.post img{
+    width:100%;
+}
+
+input, select, textarea{
+    margin-bottom:15px;
+
+}
+
+label{
+    display:inline-block;
+    width:100px;
+}
+
+input[type='text'], input[type='email'], select, textarea{
+    padding:3px;
+    height:20px;
+    width:200px;
+    border:1px #ccc solid;
+}
+
+select{
+    height:30px;
+}
+
+textarea{
+    height:70px;
+    width:400px;
+}
+
+.alert{
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    list-style: none;
+}
+
+.alert-danger{
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+ul.success li{
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    list-style: none;
+}
+
+footer{
+    margin-top:40px;
+    text-align: center;
+    height:30px;
+    border-top:1px solid #ccc;
+}
+
+.comment-form{
+    margin:30px 0;
+}
+
+.comment{
+    background: #ccc;
+    padding: 5px;
+    border: #666 solid 1px;
+    margin:15px 0 20px;
+}
+
+.comment-name{
+    font-weight: bold;
+}
