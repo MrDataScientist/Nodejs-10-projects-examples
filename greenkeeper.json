@@ -1,0 +1,17 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "02_Basic_Express_Website/express-website/package.json",
+        "03_User_Login_System/nodeauth/package.json",
+        "04_Node_Blog_System/nodeblog/package.json",
+        "05_Community_Events/comevents/package.json",
+        "06_Bookstore/TekBooks/package.json",
+        "07_ChatIO/package.json",
+        "08_FindaDoc_Directory/package.json",
+        "09_Portfolio_App/package.json",
+        "10_eLearning_System/package.json"
+      ]
+    }
+  }
+}
