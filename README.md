@@ -1,4 +1,6 @@
 # [Eduonix] Learn Nodejs by building 10 projects [2015, ENG]:  
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/MrDataScientist/Nodejs-10-projects-examples.svg)](https://greenkeeper.io/)
 http://www.eduonix.com/courses/Web-Development/Learn-Nodejs-by-building-10-Projects-From-Scratch
 
 ___
